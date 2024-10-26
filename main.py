@@ -1,11 +1,3 @@
-# ===================== #
-# Raphael De Los Reyes
-# 11189672
-# gld141  
-# ===================== #
-
-
-# os is needed to create a new directory
 import os
 
 # image paths
