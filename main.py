@@ -1,9 +1,9 @@
 import os
 
 # image paths
-black_path = 'black.png'
-x_path = 'x.png'
-o_path = 'o.png'
+black_path = './images/black.png'
+x_path = './images/x.png'
+o_path = './images/o.png'
 
 # Create canvas directory if it doesn't already exist
 if not os.path.exists('canvas'):
