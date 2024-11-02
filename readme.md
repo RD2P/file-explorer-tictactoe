@@ -1,10 +1,10 @@
 # File Explorer Tic Tac Toe
-A silly idea. What if we could play Tic Tac Toe using the file explorer as the game board?
+Playing Tic Tac Toe using the file explorer as the game board.
 
 ![screenshot](./images/screenshot.png)
 
 ## How It Works
-The game creates 9 blank image files representing the Tic Tac Toe grid. Players take turns by replacing blank images with X or O images. The game checks for a winner after each move.
+The game creates 9 blank image files representing the Tic Tac Toe grid. Players take turns making their moves and the game board updates accordingly. The game ends when there's a winner or all the spots on the board have been played.
 
 ## Requirements
 1. Python 3
